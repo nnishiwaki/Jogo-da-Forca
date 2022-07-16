@@ -1,0 +1,199 @@
+
+
+body{
+    background-image:url(imagens/fundopb.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+}
+
+                    
+/*********
+area do jogo*/
+.area-jogo{
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+/******
+forca*/
+/*html{
+
+background-image: url(../imagens/fundopg.jpg);
+
+
+background-position: center center;
+
+
+background-repeat: no-repeat;
+
+
+background-attachment: fixed;
+
+
+background-size: 100% 100%;
+ overflow-x: hidden 
+}*/
+
+.area-img{
+    background-image: url(../imagens/forca1.png);/*coloca a imagem da forca vazia*/
+    width: 234px;
+    height: 272px;
+    background-repeat: no-repeat;
+}
+
+/****************
+palavra secreta*/
+
+.segredo{
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.letras{
+    text-transform: uppercase;
+    color: black;/*escreve nos tracejados*/
+    width: 20px;/*largura do tracejado*/
+    text-align: center;
+    border-bottom: 3px solid #8b008b;/*largura do tracejado*/
+    margin-left: 5px;
+    margin-right: 5px;
+    text-transform: uppercase;
+}
+
+
+
+/*******
+botoes*/
+
+.btn{
+    border: none;
+    width: 140%;
+    height: 5vh;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 20px;/*tamanho da letra*/
+    transition: 0.5s;
+    color: black;
+    border: 2px solid #000;
+    text-align: center;
+    background-color: lightgrey;/*cor do teclado*/
+}
+
+.btn:disabled{
+    cursor: not-allowed;
+}
+
+.btn-reload{
+    border: none;
+    width: 140%;
+    height: 5vh;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 20px;
+    transition: 0.5s;
+    color: purple;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.btn:hover{
+    background: skyblue;
+    color: #000;
+    transform: scale(1.2);
+    box-shadow: 0px 5px 50px #fff;
+}
+
+.btn-reload:hover{
+    background: purple;
+    color: #000;
+    transform: scale(1.2);
+    box-shadow: 0px 5px 50px #fff;
+}
+
+@media(max-width: 550px){
+    .btn{
+        border: none;
+        width: 85%;
+        height: 4vh;
+        border-radius: 5px;
+        cursor: pointer;
+        text-transform: uppercase;
+        font-size: 10px;
+        transition: 0.5s;
+        color: black;
+        border: 1px solid #000;
+        text-align: center;
+    }
+    
+    .btn-reload{
+        border: none;
+        width: 85%;
+        height: 4vh;
+        border-radius: 5px;
+        cursor: pointer;
+        text-transform: uppercase;
+        font-size: 19px;
+        transition: 0.5s;
+        color: purple;
+        border: 1px solid #000;
+        text-align: center;
+    }
+    
+    .btn:hover{
+        background: skyblue;/*muda cor do teclado quando o cursor está sobre ele*/
+        color: #000;
+        transform: scale(1.2);
+        box-shadow: 0px 5px 50px #fff;
+    }
+    
+    .btn-reload:hover{
+        background: purple;/*muda cor teclado depois que pressiona*/
+        color: #000;
+        transform: scale(1.2);
+        box-shadow: 0px 5px 50px #fff;
+    }
+}
+/**********
+categoria*/
+
+.categoria{
+    color: white;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.dica, #dica{
+    text-transform: uppercase;
+    color: #8b008b;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+
+@media(max-width: 550px){
+    .categoria{
+        color: white;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    
+    .dica{
+        text-transform: uppercase;
+        color: ##8b008b;
+        font-size: 10px;
+        margin-left: 5px;
+    }
+}
