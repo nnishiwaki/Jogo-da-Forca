@@ -1,0 +1,148 @@
+{
+  "produtos": [
+    {
+      "urlImagem": "img/produtos-consoles/console1.png",
+      "altImagem": "Mouse s/fio com bluetooth",
+      "nome": "Mouse s/fio com bluetooth",
+      "preco": "31,00",
+      "descricao": "Novo mouse bluetooth sem fio usb recarregável óptico mouse para computador portátil computador portátil macbook gaming mouse gamer 2.4ghz 1600dpi",
+      "id": 1
+    },
+    {
+      "urlImagem": "img/produtos-consoles/console2.png",
+      "altImagem": "Drive USB 3.1 SSD 30TB",
+      "nome": "Drive USB 3.1 SSD 30TB",
+      "preco": "20,00",
+      "descricao": "1tb unidade de estado sólido hdd portátil original disco rígido externo para computador portátil dispositivo de armazenamento portátil usb3.0 2tb disco rígido móvel",
+      "id": 2
+    },
+    {
+      "urlImagem": "img/produtos-consoles/console3.png",
+      "altImagem": "Carregador/adaptador p/Apple",
+      "nome": "Carregador/adaptador p/Apple",
+      "preco": "22,00",
+      "descricao": "Original Apple 15w magsafe carregador/adaptador de alimentação/cabo para iphone 14 13 12 11 8 plus se xs pro max mini",
+      "id": 3
+    },
+    {
+      "urlImagem": "img/produtos-consoles/console4.png",
+      "altImagem": "Microfone profissional USB",
+      "nome": "Microfone profissional USB",
+      "preco": "50,00",
+      "descricao": "Profissional usb condensador microfones para computador portátil computador computador cantando jogos streaming de gravação estúdio youtube vídeo microfone",
+      "id": 4
+    }, 
+    {
+      "urlImagem": "img/produtos-consoles/console5.png",
+      "altImagem": "Disco rígido interno SSD 2.5”",
+      "nome": "Disco rígido interno SSD 2.5”",
+      "preco": "26,00",
+      "descricao": "Disco rígido interno 120gb 240gb do ssd de goldenfir sataiii 512gb 128gb 256gb 1tb 2. movimentação de estado sólido de 5 polegadas sata para o desktop do portátil",
+      "id": 5
+    },
+    {
+      "urlImagem": "img/produtos-consoles/console6.png",
+      "altImagem": "Fone de ouvido bluetooth",
+      "nome": "Fone de ouvido bluetooth",
+      "preco": "43.00",
+      "descricao": "Lenovo lp7 lp75 tws bluetooth fones de ouvido esportes sem fio à prova dhifi água alta fidelidade estéreo redução ruído com microfones",
+      "id": 6
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img1.png",
+      "altImagem": "Mini Drone Potensic",
+      "nome": "Mini Drone Potensic",
+      "preco": "67,00",
+      "descricao": "A20 pousic rc quadcopter indoor ao ar livre mini drone 2.4g helicóptero de controle remoto fácil voar pouco dron para crianças meninos brinquedos",
+      "id": 7
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img2.png",
+      "altImagem": "Cx. de Presente Pokémon",
+      "nome": "Cx. de Presente Pokémon",
+      "preco": "14,00",
+      "descricao": "24-144 Caixa de Presente De Natal Pokemon 2-3 Pçs/set Centímetros Pikachu Figura de Ação do Modelo Inglês Cartas Colecionáveis Brinquedos Para Crianças De Metal Ouro",
+      "id": 8
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img3.png",
+      "altImagem": "Dance Musical Robot",
+      "nome": "Dance Musical Robot",
+      "preco": "54,00",
+      "descricao": "Dança robô 6 garras polvo robô elétrico animal de estimação musical brilhando brinquedos educativos brinquedos interativos para crianças stoy presente digital animal estimação",
+      "id": 9
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img4.png",
+      "altImagem": "Carro controle remoto",
+      "nome": "Carro controle remoto",
+      "preco": "116.00",
+      "descricao": "Gesto de indução deformação de controle remoto carro dublê torção mão-controlado fora de estrada escalada quatro rodas carro de brinquedo para crianças",
+      "id": 10
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img4.png",
+      "altImagem": "Original heróis anime",
+      "nome": "Original heróis anime",
+      "preco": "109,00",
+      "descricao": "Em estoque original bandai shf dragon ball super vegeta son goku gohan piccolo super herói anime figuras de ação modelo brinquedos",
+      "id": 11
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img5.png",
+      "altImagem": "Carro técnico app",
+      "nome": "Carro técnico app",
+      "preco": "131,00",
+      "descricao": "Carro técnico app controle remoto j902 moter power tijolos suv blocos de construção buggy presente brinquedos para meninos conjuntos moc montagem modelos",
+      "id": 12
+    },
+    {
+      "urlImagem": "img/produtos-vestuario/img6.png",
+      "altImagem": "Lixeira Xiaomi",
+      "nome": "Lixeira Xiaomi",
+      "preco": "11,00",
+      "descricao": "Xiaomi mijia inteligente lata de lixo inteligente sensor dustbin 12l elétrica automática pode usb à prova dusb água indução lixo bin",
+      "id": 13
+    },
+    {
+      "urlImagem": "img/produtos-sw/diversos2.png",
+      "altImagem": "Metal card Pokemon",
+      "nome": "Metal card Pokemon",
+      "preco": "8,00",
+      "descricao": "Espanhol metal pokemon letras charizard vmax ferro duro cartões pokemon picchu mewtwo gx ex dourado raro cartão anime cartas jogo brinquedos",
+      "id": 14
+    },
+    {
+      "urlImagem": "img/produtos-sw/diversos3.png",
+      "altImagem": "Dispensador de água",
+      "nome": "Dispensador de água",
+      "preco": "27,00",
+      "descricao": "Xiaomi mijia dispensador de água elétrico automático inteligente bomba de água garrafa de água galão garrafa de beber interruptor de carregamento usb",
+      "id": 15
+    },
+    {
+      "urlImagem": "img/produtos-sw/diversos4.png",
+      "altImagem": "Caixa de armaz. cosmética",
+      "nome": "Caixa de armaz. cosmética",
+      "preco": "44,00",
+      "descricao": "Caixa de armazenamento cosmética montada na parede com capa organizador de recipiente de armazenamento de plástico para cosméticos acessórios de banheiro aand lotions",
+      "id": 16
+    },
+    {
+      "urlImagem": "img/produtos-sw/diversos5.png",
+      "altImagem": "Disco rígido SSD 2.5” SATA",
+      "nome": "Disco rígido SSD 2.5” SATA",
+      "preco": "27,00",
+      "descricao": "Disco rígido ssd, 240 gb, 500gb, 1tb, 960 gb, 480 gb, 60 gb, hdd, 120 polegadas, discos para notebook, estado sólido",
+      "id": 17
+    },
+    {
+      "urlImagem": "img/produtos-sw/diversos6.png",
+      "altImagem": "Blazer casual masculino",
+      "nome": "Blazer casual masculino",
+      "preco": "62,00",
+      "descricao": "2021 nova moda primavera e no outono casual masculino blazer blazer algodão fino terno inglaterra blaser masculino jaqueta masculina tamanho M-5XL",
+      "id": 18
+    }
+  ]
+}
